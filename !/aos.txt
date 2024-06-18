@@ -1,0 +1,44 @@
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+//logo 
+data-aos="flip-down" data-aos-duration="1000" data-aos-delay="100"
+//li 1 
+data-aos="flip-down" data-aos-duration="1000" data-aos-delay="300"
+//li 2 
+data-aos="flip-down" data-aos-duration="1000" data-aos-delay="500"
+//li 3 
+data-aos="flip-down" data-aos-duration="1000" data-aos-delay="700"
+//li 4 
+data-aos="flip-down" data-aos-duration="1000" data-aos-delay="900"
+//intro text 
+data-aos="slide-right" data-aos-duration="1000"
+//cover 
+data-aos="slide-left" data-aos-duration="1000"
+//featured content 
+data-aos="fade-right" data-aos-duration="1100"
+//featured image 
+data-aos="fade-right" data-aos-duration="1100"
+//featured content 
+data-aos="fade-left" data-aos-duration="1100"
+//featured image 2 
+data-aos="fade-right" data-aos-duration="1100"
+//featured content 
+data-aos="fade-left" data-aos-duration="1100"
+//warning 
+data-aos="fade-up" data-aos-duration="1000"
+//project 
+data-aos="fade-right" data-aos-duration="1200"
+//project text 
+data-aos="fade-right" data-aos-duration="1200"
+//card 1 
+data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500"
+//card 2 
+data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1000"
+//card 3 
+data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1200"
+//card 4 
+data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500"
+//text container 
+data-aos="fade-right" data-aos-duration="1100"
+//about image 
+data-aos="fade-left" data-aos-duration="1100"
